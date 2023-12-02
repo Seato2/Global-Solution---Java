@@ -84,3 +84,5 @@ O projeto não altera as políticas e normativas do SUS, sendo projetado para se
 
 ![Diagrama](https://github.com/Seato2/Global-Solution---Java/assets/91990787/3aaf24b3-9f25-4deb-986f-82c2f916cfd6)
 
+vídeo pitch: https://www.youtube.com/watch?v=1a2hz2SXDsc
+
